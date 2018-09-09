@@ -4,6 +4,8 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:2018（下）课程表
+DESCRIPTION:武汉晴川学院计算机学院物联网2018学年下学期课程表（By肖帅，有问题请找他）
+X-WR-CALDESC:武汉晴川学院计算机学院物联网2018学年下学期课程表（By肖帅，有问题请找他）
 X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:
 BEGIN:VTIMEZONE
