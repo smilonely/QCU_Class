@@ -1,0 +1,424 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2018（下）课程表
+X-WR-TIMEZONE:Asia/Shanghai
+X-WR-CALDESC:
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180910T083000
+DTEND;TZID=Asia/Shanghai:20180910T100500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=16;BYDAY=MO
+DTSTAMP:20180909T141828Z
+UID:306ijqg9inht0iqpbdrldcjele@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.306ijqg9inht0i
+ qpbdrldcjele
+CREATED:20180909T141447Z
+DESCRIPTION:彭雪莲\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the des
+ cription.\n\nThis event has a Google Hangouts video call.\nJoin: https://ha
+ ngouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ
+ 3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.306ijqg9inht0iqpbdrldcjele?hs=121\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-
+LAST-MODIFIED:20180909T141447Z
+LOCATION:教学楼一-204
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:📊概率论与数理统计
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180910T102000
+DTEND;TZID=Asia/Shanghai:20180910T115500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=16;BYDAY=MO
+DTSTAMP:20180909T141828Z
+UID:65ntc08k8rnm9i9d7coolhk099@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.65ntc08k8rnm9i
+ 9d7coolhk099
+CREATED:20180909T141538Z
+DESCRIPTION:胡丹\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the desc
+ ription.\n\nThis event has a Google Hangouts video call.\nJoin: https://han
+ gouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ3
+ JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.65ntc08k8rnm9i9d7coolhk099?hs=121\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20180909T141538Z
+LOCATION:教学楼一-106
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:📙大学英语3
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180910T134000
+DTEND;TZID=Asia/Shanghai:20180910T151500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=16;BYDAY=MO
+DTSTAMP:20180909T141828Z
+UID:0bdc1504h4u2nn2j8hrocqj6ho@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0bdc1504h4u2nn
+ 2j8hrocqj6ho
+CREATED:20180909T141546Z
+DESCRIPTION:翟月英\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the des
+ cription.\n\nThis event has a Google Hangouts video call.\nJoin: https://ha
+ ngouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ
+ 3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0bdc1504h4u2nn2j8hrocqj6ho?hs=121\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-
+LAST-MODIFIED:20180909T141546Z
+LOCATION:教学楼一-108
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:💻汇编语言
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180911T083000
+DTEND;TZID=Asia/Shanghai:20180911T100500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=TU
+DTSTAMP:20180909T141828Z
+UID:7c6m2e0l295ho70nuq7gp0alun@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.7c6m2e0l295ho7
+ 0nuq7gp0alun
+CREATED:20180909T141556Z
+DESCRIPTION:杨艳\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the desc
+ ription.\n\nThis event has a Google Hangouts video call.\nJoin: https://han
+ gouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ3
+ JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.7c6m2e0l295ho70nuq7gp0alun?hs=121\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20180909T141556Z
+LOCATION:教学楼一-108
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🔢数据结构
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180911T102000
+DTEND;TZID=Asia/Shanghai:20180911T115500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=TU
+DTSTAMP:20180909T141828Z
+UID:2q3vkqplpoaba57ufq5nskfptb@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.2q3vkqplpoaba5
+ 7ufq5nskfptb
+CREATED:20180909T141603Z
+DESCRIPTION:杨艳\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the desc
+ ription.\n\nThis event has a Google Hangouts video call.\nJoin: https://han
+ gouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ3
+ JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.2q3vkqplpoaba57ufq5nskfptb?hs=121\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20180909T141604Z
+LOCATION:实验楼二-302
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🔢【实验】数据结构
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180911T134000
+DTEND;TZID=Asia/Shanghai:20180911T151500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=16;BYDAY=TU
+DTSTAMP:20180909T141828Z
+UID:7pr58p6mnguailv2nd22bu5s1p@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.7pr58p6mnguail
+ v2nd22bu5s1p
+CREATED:20180909T141611Z
+DESCRIPTION:许珞华\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the des
+ cription.\n\nThis event has a Google Hangouts video call.\nJoin: https://ha
+ ngouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ
+ 3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.7pr58p6mnguailv2nd22bu5s1p?hs=121\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-
+LAST-MODIFIED:20180909T141611Z
+LOCATION:教学楼一-210
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:📙毛泽东思想和中国特色社会主义理论体系概论
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180911T153000
+DTEND;TZID=Asia/Shanghai:20180911T170500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=12;BYDAY=TU
+DTSTAMP:20180909T141828Z
+UID:02assk1lafku8dub63q9jhi12h@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.02assk1lafku8d
+ ub63q9jhi12h
+CREATED:20180909T141620Z
+DESCRIPTION:胡婧\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the desc
+ ription.\n\nThis event has a Google Hangouts video call.\nJoin: https://han
+ gouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ3
+ JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.02assk1lafku8dub63q9jhi12h?hs=121\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20180909T141620Z
+LOCATION:教学楼一-104
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🖥️计算机组成原理
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180912T083000
+DTEND;TZID=Asia/Shanghai:20180912T100500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=16;BYDAY=WE
+DTSTAMP:20180909T141828Z
+UID:7h07por73uldm8stusuq4335ll@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.7h07por73uldm8
+ stusuq4335ll
+CREATED:20180909T141628Z
+DESCRIPTION:胡丹\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the desc
+ ription.\n\nThis event has a Google Hangouts video call.\nJoin: https://han
+ gouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ3
+ JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.7h07por73uldm8stusuq4335ll?hs=121\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20180909T141628Z
+LOCATION:教学楼一-206
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:📙大学英语3
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180912T102000
+DTEND;TZID=Asia/Shanghai:20180912T115500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=16;BYDAY=WE
+DTSTAMP:20180909T141828Z
+UID:5dt70a1suf5rrjalqkrjkop6eg@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.5dt70a1suf5rrj
+ alqkrjkop6eg
+CREATED:20180909T141633Z
+DESCRIPTION:柳雪飞\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the des
+ cription.\n\nThis event has a Google Hangouts video call.\nJoin: https://ha
+ ngouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ
+ 3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.5dt70a1suf5rrjalqkrjkop6eg?hs=121\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-
+LAST-MODIFIED:20180909T141633Z
+LOCATION:教学楼一-101
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:📐线性代数
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180913T083000
+DTEND;TZID=Asia/Shanghai:20180913T100500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=4;BYDAY=TH
+DTSTAMP:20180909T141828Z
+UID:6ls6vhb3rkkbhef569j7stmed0@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6ls6vhb3rkkbhe
+ f569j7stmed0
+CREATED:20180909T141642Z
+DESCRIPTION:彭雪莲\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the des
+ cription.\n\nThis event has a Google Hangouts video call.\nJoin: https://ha
+ ngouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ
+ 3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6ls6vhb3rkkbhef569j7stmed0?hs=121\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-
+LAST-MODIFIED:20180909T141642Z
+LOCATION:教学楼一-303
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:📊概率论与数理统计
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180913T102000
+DTEND;TZID=Asia/Shanghai:20180913T115500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=TH
+DTSTAMP:20180909T141828Z
+UID:6q05o76q9c8e95nk1mqgbr5hgq@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6q05o76q9c8e95
+ nk1mqgbr5hgq
+CREATED:20180909T141647Z
+DESCRIPTION:许珞华\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the des
+ cription.\n\nThis event has a Google Hangouts video call.\nJoin: https://ha
+ ngouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ
+ 3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6q05o76q9c8e95nk1mqgbr5hgq?hs=121\n-::~:~
+ ::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::
+ ~:~::-
+LAST-MODIFIED:20180909T141648Z
+LOCATION:教学楼一-210
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:📙毛泽东思想和中国特色社会主义理论体系概论
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180913T134000
+DTEND;TZID=Asia/Shanghai:20180913T151500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=16;BYDAY=TH
+DTSTAMP:20180909T141828Z
+UID:7o5j9kri3rpok61ofla0jc2qgp@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.7o5j9kri3rpok6
+ 1ofla0jc2qgp
+CREATED:20180909T141654Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.
+ google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAu
+ Y2FsZW5kYXIuZ29vZ2xlLmNvbQ.7o5j9kri3rpok61ofla0jc2qgp?hs=121\n-::~:~::~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20180909T141655Z
+LOCATION:体育场
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🏐大学体育-排球
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180914T083000
+DTEND;TZID=Asia/Shanghai:20180914T100500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=16;BYDAY=FR
+DTSTAMP:20180909T141828Z
+UID:0h9ijabmqhcu5fv7qj5v74a020@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0h9ijabmqhcu5f
+ v7qj5v74a020
+CREATED:20180909T141701Z
+DESCRIPTION:胡婧\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the desc
+ ription.\n\nThis event has a Google Hangouts video call.\nJoin: https://han
+ gouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ3
+ JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0h9ijabmqhcu5fv7qj5v74a020?hs=121\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20180909T141702Z
+LOCATION:教学楼一-405
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🖥️计算机组成原理
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20180914T102000
+DTEND;TZID=Asia/Shanghai:20180914T115500
+RRULE:FREQ=WEEKLY;WKST=SU;COUNT=8;BYDAY=FR
+DTSTAMP:20180909T141828Z
+UID:0h4cbi7j6s0c0nab5l80n456ti@google.com
+X-GOOGLE-HANGOUT:https://hangouts.google.com/hangouts/_/calendar/ODJuNGVzaj
+ hzcTJjc2RoOW5qbTZrYTlwMWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0h4cbi7j6s0c0n
+ ab5l80n456ti
+CREATED:20180909T141708Z
+DESCRIPTION:杨艳\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the desc
+ ription.\n\nThis event has a Google Hangouts video call.\nJoin: https://han
+ gouts.google.com/hangouts/_/calendar/ODJuNGVzajhzcTJjc2RoOW5qbTZrYTlwMWdAZ3
+ JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0h4cbi7j6s0c0nab5l80n456ti?hs=121\n-::~:~:
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~
+ :~::-
+LAST-MODIFIED:20180909T141708Z
+LOCATION:教学楼一-107
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:🔢数据结构
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
